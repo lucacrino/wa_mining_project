@@ -51,6 +51,6 @@ wa_mining_investment_project/
 
 
 ## 🛠️ Tech Stack
-- PostgreSQL 18
+- PostgreSQL
 - PowerBI Desktop
 
