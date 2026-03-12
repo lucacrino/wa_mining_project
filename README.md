@@ -54,4 +54,3 @@ wa_mining_investment_project/
 - PostgreSQL 18
 - PowerBI Desktop
 
-## 📊 Key KPIs & Analysis
